@@ -1,7 +1,8 @@
 {
-    "name": "DOStuff",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {
-    }
+  "name": "DOStuff",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.1"
+  }
 }
